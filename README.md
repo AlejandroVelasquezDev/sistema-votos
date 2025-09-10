@@ -1,5 +1,5 @@
 # Sistema de Votaciones API
-Este es un proyecto de prueba técnica que implementa una API RESTful para gestionar un sistema de votaciones. 
+Implementa una API RESTful para gestionar un sistema de votaciones. 
 La API permite registrar votantes y candidatos, emitir un voto único por votante y obtener estadísticas de la votación en tiempo real.
 
 
